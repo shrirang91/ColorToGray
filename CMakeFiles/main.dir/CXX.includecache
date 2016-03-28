@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shrirang/Documents/openCV codes/color_to_gray/color_to_gray/color_to_gray/main.cpp
+iostream
+-
+opencv2/highgui/highgui.hpp
+/Users/shrirang/Documents/openCV codes/color_to_gray/color_to_gray/color_to_gray/opencv2/highgui/highgui.hpp
+opencv2/core/core.hpp
+/Users/shrirang/Documents/openCV codes/color_to_gray/color_to_gray/color_to_gray/opencv2/core/core.hpp
+opencv2/imgproc/imgproc.hpp
+/Users/shrirang/Documents/openCV codes/color_to_gray/color_to_gray/color_to_gray/opencv2/imgproc/imgproc.hpp
+

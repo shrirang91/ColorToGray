@@ -1,0 +1,1 @@
+/Users/shrirang/Documents/openCV codes/color_to_gray/color_to_gray/color_to_gray/CMakeFiles/main.dir
